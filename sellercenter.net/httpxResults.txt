@@ -1,0 +1,10 @@
+https://centralgroup1-staging-prometheus.monitoring.sellercenter.net
+https://charts.qadistribution.sellercenter.net
+https://centralgroup1-live-prometheus.monitoring.sellercenter.net
+https://confighub.sellercenter.net
+https://guide.sellercenter.net
+https://atlantis-get-sc-live.svc.sellercenter.net
+https://backendapi.sellercenter.net
+https://zalora.com
+https://www.guide.sellercenter.net
+https://sellerapi.sellercenter.net
